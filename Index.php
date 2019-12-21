@@ -1,4 +1,4 @@
 <?php
 #phpinfo();
-echo "Welcome To Sambit's Server";
+echo "Welcome To Sambit's Server := MyAdmin";
 ?>
